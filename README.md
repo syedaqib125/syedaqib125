@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Syed Aqib</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate MERN stack developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Property Wallet**
 
-- 🌱 I’m currently learning **Node Js, Express Js, Mongo DB**
+- 🌱 I’m currently learning **Nest Js**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **syed.aqib125@gmail.com**
 
